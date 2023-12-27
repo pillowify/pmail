@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+
+data*/
+model/
+
+common.js
+*.md
+*.tar.gz

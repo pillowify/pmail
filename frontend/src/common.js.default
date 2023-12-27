@@ -1,0 +1,7 @@
+const SERVER = '';
+const DOMAIN = '';
+
+export default {
+    SERVER,
+    DOMAIN
+}

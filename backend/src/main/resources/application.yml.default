@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    driver-class-name:
+    url:
+    username:
+    password:
+    type:
+  servlet:
+    multipart:
+      max-file-size:
+      max-request-size:
+
+server:
+  port:
+
+mail:
+  domain:
+  host:
+  enable-registration:
+  root-path:
+  file-upload-path:
